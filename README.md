@@ -4,6 +4,8 @@ As we all know, in today's world of the internet, social media is an essential c
 
 1. As the first step we need to get the client ID and client secret for the Google API 
 First you need to login to the your Google account and type console.cloud.google.com .After that click on create new project link for create a new project. In here I have created the demo 1 project.
+![image](https://user-images.githubusercontent.com/48545760/116288411-219d3b80-a7af-11eb-9403-877577ec13af.png)
+
 
  
 2. After click on project select box, you will find newly created demo project, Now from the the left pane, OAuth console screen, Here you can define application name and click save button.
